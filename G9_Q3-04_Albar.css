@@ -1,0 +1,71 @@
+﻿body {
+     text-align: justify;
+     font-family: Times New Roman, Trebuchet MS;
+     background-image: url('Supreme_Court_of_the_Philippines.jpg');
+     background-size: 2000px 1250px;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+}
+
+
+a:link{
+     color: black;
+     background-color: transparent;
+     text-decoration: underline;
+}
+
+a:active{
+     color: black;
+     background-color: white;
+     text-decoration: underline;
+}
+
+a:hover{
+     color: black;
+     background-color: white;
+     text-decoration: underline;
+}
+
+a:visited{
+     color: black;
+     background-color: transparent;
+     text-decoration: none;
+}
+
+
+
+p, h4 {
+     font-size: 20px;
+}
+
+section {
+     margin-top: 10px;
+     margin-bottom: 50px;
+     margin-right: 80px;
+     margin-left: 80px;
+     background-color:white;
+     opacity: 0.9;
+}
+
+.h1 {
+     text-align: center;
+     font-family: "Copperplate Gothic Bold", "Copperplate Gothic Heavy", Times New Roman;
+     font-weight: bold;
+}
+
+h1 {
+     font-family: "Copperplate Gothic light", Times New Roman;
+     color: maroon;
+}
+
+h2 {
+     font-family: "Copperplate Gothic Light", Trebuchet MS;
+     text-align: center;
+     margin-bottom: 35px;
+}
+
+footer, a {
+     font-family: Trebuchet MS;
+     color: white;
+}
